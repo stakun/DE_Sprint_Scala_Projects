@@ -1,0 +1,7 @@
+object App {
+  def main(args: Array[String]): Unit = {
+    println("Hello, Scala!")
+    // println(1000-7)
+  }
+
+}
